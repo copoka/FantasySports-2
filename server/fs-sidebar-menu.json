@@ -1,0 +1,51 @@
+[
+    {
+    "text": "Main Navigation",
+    "heading": "true",
+    "translate": "sidebar.heading.HEADER"
+  },
+    {
+    "text": "Home",
+    "sref": "app.welcome",
+    "icon": "icon-home"
+  },
+  {
+    "text": "Dashboard",
+    "sref": "#",
+    "icon": "icon-speedometer",
+    "alert": "3" ,
+    "label": "label label-info",
+    "translate": "sidebar.nav.DASHBOARD"
+  },
+  {
+    "text": "Lineups",
+    "sref": "app.nfl.lineups",
+    "icon": "fa fa-th-list"
+  },
+  {
+    "text": "Contests",
+    "sref": "app.nfl.lineups",
+    "icon": "fa fa-trophy"
+  },
+  {
+    "text": "Main Navigation",
+    "heading": "true",
+    "translate": "sidebar.heading.RESEARCH"
+  },
+  {
+    "text": "News",
+    "sref": "app.nfl.lineups",
+    "icon": "fa fa-newspaper-o"
+  },
+  {
+    "text": "Athletes",
+    "sref": "app.nfl.Athletes",
+    "icon": "fa fa-user"
+  },
+  {
+    "text": "Teams",
+    "sref": "app.nfl.Athletes",
+    "icon": "fa fa-users"
+  }
+
+]

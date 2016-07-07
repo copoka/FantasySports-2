@@ -1,0 +1,16 @@
+/* ========================================================================
+     Component: top-navbar
+ ========================================================================== */
+
+//
+// Horizontal top navbar
+// based on the bootstrap navbar styles and markup
+// ----------------------------------------------------
+
+// helper mixin to disable bs gradient mixin
+
+// Layout
+ .brand-logo {
+      display: block;
+      padding: 21px 0px !important;
+    }
