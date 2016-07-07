@@ -314,7 +314,7 @@ fieldset .form-group {
   border: 0;
 }
 .nav.nav-pills .active > a {
-  background-color: #3f51b5;
+  background-color: #2196f3;
 }
 .dropdown-menu {
   border-radius: 3px;
@@ -1607,7 +1607,7 @@ _:-ms-lang(x),
   color: #909fa7;
 }
 .offsidebar .nav-tabs.nav-justified > li.active > a {
-  color: #3f51b5;
+  color: #2196f3;
 }
 @media only screen and (min-width: 768px) {
   .offsidebar {
@@ -1646,16 +1646,16 @@ _:-ms-lang(x),
   width: 100%;
   height: 100%;
   overflow: hidden;
-  background-color: #3f51b5;
-  background-image: -webkit-linear-gradient(-90deg, #3f51b5 10%, #3849a2 90%);
+  background-color: #2196f3;
+  background-image: -webkit-linear-gradient(-90deg, #2196f3 10%, #0d8aee 90%);
   /* Chrome 10+, Saf5.1+ */
-  background-image: -moz-linear-gradient(-90deg, #3f51b5 10%, #3849a2 90%);
+  background-image: -moz-linear-gradient(-90deg, #2196f3 10%, #0d8aee 90%);
   /* FF3.6+ */
-  background-image: -ms-linear-gradient(-90deg, #3f51b5 10%, #3849a2 90%);
+  background-image: -ms-linear-gradient(-90deg, #2196f3 10%, #0d8aee 90%);
   /* IE10 */
-  background-image: -o-linear-gradient(-90deg, #3f51b5 10%, #3849a2 90%);
+  background-image: -o-linear-gradient(-90deg, #2196f3 10%, #0d8aee 90%);
   /* Opera 11.10+ */
-  background-image: linear-gradient(-90deg, #3f51b5 10%, #3849a2 90%);
+  background-image: linear-gradient(-90deg, #2196f3 10%, #0d8aee 90%);
   /* W3C */
   z-index: 9999;
   -webkit-transition: opacity 0.65s;
@@ -1668,12 +1668,12 @@ _:-ms-lang(x),
   right: 0;
   bottom: 0;
   left: 0;
-  width: 100px;
-  height: 30px;
+  width: 581px;
+  height: 39px;
   margin: auto;
   overflow: auto;
-  background-image: url(../img/preloader/preloader.empty.png);
-  background-size: 100px 30px;
+  background-image: url(../img/fs/preloader/preloader.empty.png);
+  background-size: 581px 39px;
 }
 .preloader-progress-bar {
   position: absolute;
@@ -1681,8 +1681,8 @@ _:-ms-lang(x),
   right: 0;
   bottom: 0;
   min-width: 10px;
-  background-image: url(../img/preloader/preloader.full.png);
-  background-size: 100px 30px;
+  background-image: url(../img/fs/preloader/preloader.full.png);
+  background-size: 581px 39px;
 }
 .preloader-hidden {
   display: none;
@@ -5121,7 +5121,7 @@ fieldset[disabled] .btn-pink.focus {
 .btn-outline:hover,
 .btn-outline:focus {
   background-color: #fff;
-  color: #3f51b5;
+  color: #2196f3;
 }
 .btn-flat {
   border-bottom-width: 1px;
@@ -5537,130 +5537,130 @@ fieldset[disabled] .btn-pink.focus {
   line-height: 56px;
 }
 .radial-bar.radial-bar-0 {
-  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(90deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(90deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar.radial-bar-5 {
-  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(108deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(108deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar.radial-bar-10 {
-  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(126deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(126deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar.radial-bar-15 {
-  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(144deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(144deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar.radial-bar-20 {
-  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(162deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(162deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar.radial-bar-25 {
-  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(180deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(180deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar.radial-bar-30 {
-  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(198deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(198deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar.radial-bar-35 {
-  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(216deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(216deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar.radial-bar-40 {
-  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(234deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(234deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar.radial-bar-45 {
-  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(252deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(252deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar.radial-bar-50 {
-  background-image: linear-gradient(-270deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-270deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar.radial-bar-55 {
-  background-image: linear-gradient(-288deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-288deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar.radial-bar-60 {
-  background-image: linear-gradient(-306deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-306deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar.radial-bar-65 {
-  background-image: linear-gradient(-324deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-324deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar.radial-bar-70 {
-  background-image: linear-gradient(-342deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-342deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar.radial-bar-75 {
-  background-image: linear-gradient(-360deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-360deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar.radial-bar-80 {
-  background-image: linear-gradient(-378deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-378deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar.radial-bar-85 {
-  background-image: linear-gradient(-396deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-396deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar.radial-bar-90 {
-  background-image: linear-gradient(-414deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-414deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar.radial-bar-95 {
-  background-image: linear-gradient(-432deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-432deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar.radial-bar-100 {
-  background-image: linear-gradient(-450deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-450deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-0 {
-  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(90deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(90deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-5 {
-  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(108deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(108deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-10 {
-  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(126deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(126deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-15 {
-  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(144deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(144deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-20 {
-  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(162deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(162deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-25 {
-  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(180deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(180deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-30 {
-  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(198deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(198deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-35 {
-  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(216deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(216deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-40 {
-  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(234deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(234deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-45 {
-  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(252deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(252deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-50 {
-  background-image: linear-gradient(-270deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-270deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-55 {
-  background-image: linear-gradient(-288deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-288deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-60 {
-  background-image: linear-gradient(-306deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-306deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-65 {
-  background-image: linear-gradient(-324deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-324deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-70 {
-  background-image: linear-gradient(-342deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-342deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-75 {
-  background-image: linear-gradient(-360deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-360deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-80 {
-  background-image: linear-gradient(-378deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-378deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-85 {
-  background-image: linear-gradient(-396deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-396deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-90 {
-  background-image: linear-gradient(-414deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-414deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-95 {
-  background-image: linear-gradient(-432deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-432deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-primary.radial-bar-100 {
-  background-image: linear-gradient(-450deg, #3f51b5 50%, transparent 50%, transparent), linear-gradient(270deg, #3f51b5 50%, #fafafa 50%, #fafafa);
+  background-image: linear-gradient(-450deg, #2196f3 50%, transparent 50%, transparent), linear-gradient(270deg, #2196f3 50%, #fafafa 50%, #fafafa);
 }
 .radial-bar-success.radial-bar-0 {
   background-image: linear-gradient(-90deg, #fafafa 50%, transparent 50%, transparent), linear-gradient(90deg, #4caf50 50%, #fafafa 50%, #fafafa);
@@ -6054,7 +6054,7 @@ x:-o-prefocus,
   margin-left: 0;
 }
 .circle-primary {
-  background-color: #3f51b5;
+  background-color: #2196f3;
 }
 .circle-success {
   background-color: #4caf50;
@@ -6096,7 +6096,7 @@ x:-o-prefocus,
   background-color: transparent;
 }
 .circle-outline.circle-primary {
-  border: 1px solid #3f51b5;
+  border: 1px solid #2196f3;
 }
 .circle-outline.circle-success {
   border: 1px solid #4caf50;
@@ -6238,7 +6238,7 @@ x:-o-prefocus,
 }
 .timeline > li > .timeline-badge.primary,
 .timeline-alt > li > .timeline-badge.primary {
-  background-color: #3f51b5;
+  background-color: #2196f3;
 }
 .timeline > li > .timeline-badge.success,
 .timeline-alt > li > .timeline-badge.success {
@@ -8215,7 +8215,7 @@ ul[rn-carousel] {
   text-align: center;
 }
 .balloon {
-  background: #3f51b5;
+  background: #2196f3;
   border-radius: 50%;
   display: inline-block;
   font-size: 160%;
@@ -8370,7 +8370,7 @@ flot .legend .legendColorBox > div > div {
 }
 .c-checkbox:hover span,
 .c-radio:hover span {
-  border-color: #3f51b5;
+  border-color: #2196f3;
 }
 .form-inline .c-checkbox span,
 .form-inline .c-radio span {
@@ -8416,8 +8416,8 @@ flot .legend .legendColorBox > div > div {
 .c-radio input[type=checkbox]:checked + span,
 .c-checkbox input[type=radio]:checked + span,
 .c-radio input[type=radio]:checked + span {
-  border-color: #3f51b5;
-  background-color: #3f51b5;
+  border-color: #2196f3;
+  background-color: #2196f3;
 }
 .c-checkbox input[type=radio]:checked + span,
 .c-radio input[type=radio]:checked + span {
@@ -8425,7 +8425,7 @@ flot .legend .legendColorBox > div > div {
 }
 .c-checkbox input[type=radio]:checked + span:before,
 .c-radio input[type=radio]:checked + span:before {
-  color: #3f51b5;
+  color: #2196f3;
 }
 .c-checkbox input[type=checkbox]:disabled + span,
 .c-radio input[type=checkbox]:disabled + span,
@@ -8463,14 +8463,14 @@ flot .legend .legendColorBox > div > div {
   transition: color 0.3s ease-out;
 }
 .c-radio.c-radio-nofont input[type=radio]:checked + span {
-  border-color: #3f51b5;
-  background-color: #3f51b5;
+  border-color: #2196f3;
+  background-color: #2196f3;
 }
 .c-radio.c-radio-nofont input[type=radio]:checked + span {
   background-color: #fff;
 }
 .c-radio.c-radio-nofont input[type=radio]:checked + span:before {
-  background-color: #3f51b5;
+  background-color: #2196f3;
 }
 .c-radio.c-radio-nofont input[type=radio]:disabled + span {
   border-color: #dddddd !important;
@@ -8539,8 +8539,8 @@ flot .legend .legendColorBox > div > div {
   width: 13px;
 }
 .switch input:checked + span {
-  background-color: #3f51b5;
-  border-color: #3f51b5;
+  background-color: #2196f3;
+  border-color: #2196f3;
   transition: all .5s;
 }
 .switch input:checked + span:after {
@@ -8744,13 +8744,13 @@ body .bootstrap-tagsinput .tag {
   text-decoration: none;
 }
 .form-wizard > ol > li .label {
-  background-color: #3f51b5;
+  background-color: #2196f3;
   vertical-align: super;
   margin-left: 6px;
 }
 .form-wizard > ol > li .label[href]:hover,
 .form-wizard > ol > li .label[href]:focus {
-  background-color: #32408f;
+  background-color: #0c7cd5;
 }
 .form-wizard > ol > li h4 {
   display: inline-block;
@@ -8761,7 +8761,7 @@ body .bootstrap-tagsinput .tag {
   color: #909fa7;
 }
 .form-wizard > ol > li.active {
-  background-color: #3f51b5;
+  background-color: #2196f3;
 }
 .form-wizard > ol > li.active h4,
 .form-wizard > ol > li.active small {
@@ -8770,7 +8770,7 @@ body .bootstrap-tagsinput .tag {
 .form-wizard > ol > li.active .label {
   background-color: #fff;
   border-color: #fff;
-  color: #3f51b5;
+  color: #2196f3;
 }
 .form-wizard .bwizard-buttons {
   margin: 0;
@@ -9016,13 +9016,13 @@ body .dataTables_wrapper .dataTables_paginate .paginate_button.next {
   border-bottom-left-radius: 4px;
 }
 body .dataTables_wrapper .dataTables_paginate .paginate_button:hover {
-  color: #3f51b5 !important;
+  color: #2196f3 !important;
 }
 body .dataTables_wrapper .dataTables_paginate .paginate_button.current,
 body .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
-  background-color: #3f51b5 !important;
+  background-color: #2196f3 !important;
   color: #fff !important;
-  border-color: #3f51b5 !important;
+  border-color: #2196f3 !important;
 }
 body table.dataTable.row-border tbody th,
 body table.dataTable.row-border tbody td,
@@ -9375,7 +9375,7 @@ body .ng-table-pager:after {
 }
 .ag-angle .ag-filter input[type="text"]:focus,
 .ag-angle .ag-filter select:focus {
-  border-color: #3f51b5;
+  border-color: #2196f3;
 }
 .ag-angle .ag-selection-checkbox {
   margin-right: 4px;
@@ -9422,15 +9422,15 @@ body .ng-table-pager:after {
 }
 .bs-slider .slider-handle {
   background-color: #fff;
-  border: 1px solid #3f51b5;
+  border: 1px solid #2196f3;
   opacity: 1;
 }
 .bs-slider .slider-track {
   background-color: #fff;
-  border: 1px solid #3f51b5;
+  border: 1px solid #2196f3;
 }
 .bs-slider .slider-selection {
-  background-color: #3f51b5;
+  background-color: #2196f3;
 }
 .bs-slider .slider .tooltip.top .tooltip-arrow {
   border-top-color: #2c3037;
@@ -9907,25 +9907,25 @@ body .whirl.solid {
   opacity: 1;
 }
 body .whirl:after {
-  border-top-color: #3f51b5;
+  border-top-color: #2196f3;
 }
 body .whirl.blade:after {
-  border-bottom-color: #3f51b5;
+  border-bottom-color: #2196f3;
 }
 body .whirl.double-up:after {
-  border-left-color: #3f51b5;
-  border-top-color: #3f51b5;
-  border-right-color: #3f51b5;
-  border-bottom-color: #3f51b5;
+  border-left-color: #2196f3;
+  border-top-color: #2196f3;
+  border-right-color: #2196f3;
+  border-bottom-color: #2196f3;
 }
 body .whirl.duo:after {
-  border-left-color: #3f51b5;
-  border-right-color: #3f51b5;
+  border-left-color: #2196f3;
+  border-right-color: #2196f3;
   border-top-color: #673ab7;
   border-bottom-color: #673ab7;
 }
 body .whirl.helicopter:after {
-  background-color: #3f51b5;
+  background-color: #2196f3;
 }
 body .whirl.ringed:after {
   border-left-color: #2196f3;
@@ -9940,7 +9940,7 @@ body .whirl.traditional:after {
   border-bottom-color: #ffeb3b;
 }
 body .whirl.line:after {
-  box-shadow: inset 10px 0px 0px rgba(63, 81, 181, 0.5);
+  box-shadow: inset 10px 0px 0px rgba(33, 150, 243, 0.5);
 }
 .no-cssanimations body .whirl:before {
   opacity: .9;
@@ -9982,49 +9982,49 @@ body .line-spin-fade-loader > div,
 body .triangle-skew-spin > div,
 body .ball-grid-beat > div,
 body .semi-circle-spin > div {
-  background-color: #3f51b5;
+  background-color: #2196f3;
 }
 body .ball-clip-rotate-multiple {
   width: 1px;
 }
 body .ball-clip-rotate-multiple > div {
-  border-color: #3f51b5 transparent #3f51b5 transparent;
+  border-color: #2196f3 transparent #2196f3 transparent;
 }
 body .ball-clip-rotate-multiple > div:last-child {
-  border-color: transparent #3f51b5 transparent #3f51b5;
+  border-color: transparent #2196f3 transparent #2196f3;
 }
 body .ball-clip-rotate > div {
-  border-color: #3f51b5;
+  border-color: #2196f3;
   border-bottom-color: transparent;
 }
 body .ball-clip-rotate-pulse > div:first-child {
-  background-color: #3f51b5;
+  background-color: #2196f3;
   top: 5px;
   right: -8px;
 }
 body .ball-clip-rotate-pulse > div:last-child {
-  border-color: #3f51b5 transparent #3f51b5 transparent;
+  border-color: #2196f3 transparent #2196f3 transparent;
 }
 body .square-spin > div,
 body .ball-scale-ripple > div,
 body .ball-scale-ripple-multiple > div {
-  border-color: #3f51b5;
+  border-color: #2196f3;
 }
 body .pacman > div:first-of-type {
-  border-top-color: #3f51b5;
-  border-right-color: #3f51b5;
-  border-bottom-color: #3f51b5;
+  border-top-color: #2196f3;
+  border-right-color: #2196f3;
+  border-bottom-color: #2196f3;
 }
 body .pacman > div:nth-child(2) {
-  border-top-color: #3f51b5;
-  border-right-color: #3f51b5;
-  border-bottom-color: #3f51b5;
+  border-top-color: #2196f3;
+  border-right-color: #2196f3;
+  border-bottom-color: #2196f3;
 }
 body .pacman > div:nth-child(3),
 body .pacman > div:nth-child(4),
 body .pacman > div:nth-child(5),
 body .pacman > div:nth-child(6) {
-  background-color: #3f51b5;
+  background-color: #2196f3;
 }
 body .sk-rotating-plane.sk-spinner,
 body .sk-double-bounce .sk-double-bounce1,
@@ -10040,7 +10040,7 @@ body .sk-cube-grid .sk-cube,
 body .sk-fading-circle .sk-circle:before,
 body .sk-spinner-pulse.sk-spinner,
 body .sk-rotating-plane {
-  background-color: #3f51b5 !important;
+  background-color: #2196f3 !important;
 }
 body .sk-wordpress .sk-inner-circle {
   background-color: #fff;
@@ -10123,7 +10123,7 @@ body .jvectormap-zoomout {
   background-color: #c0d0d3;
 }
 .mb-boxes .nav > li.active > a {
-  background-color: #3f51b5 !important;
+  background-color: #2196f3 !important;
   color: #fff;
 }
 @media only screen and (min-width: 992px) {
@@ -10579,15 +10579,15 @@ body .jvectormap-zoomout {
   margin: 0 auto;
 }
 .bg-primary {
-  background-color: #3f51b5;
+  background-color: #2196f3;
   color: #ffffff !important;
 }
 .bg-primary-light {
-  background-color: #606fc7;
+  background-color: #51adf6;
   color: #ffffff !important;
 }
 .bg-primary-dark {
-  background-color: #32408f;
+  background-color: #0c7cd5;
   color: #ffffff !important;
 }
 .bg-primary small {
@@ -12233,7 +12233,7 @@ flatdoc .button .badge {
   margin-bottom: 0;
 }
 .md-welcome .md-welcome-msg {
-  background-color: #3f51b5;
+  background-color: #2196f3;
   background-image: url('../img/welcome.jpg');
   background-position: 100% 75%;
   color: #fff;
@@ -12382,14 +12382,14 @@ flatdoc .button .badge {
 .mda-form-control:focus,
 .mda-form-control.focus {
   padding-bottom: 1px;
-  border-color: #3f51b5;
+  border-color: #2196f3;
   border-bottom-width: 2px;
 }
 .mda-form-control:focus ~ label,
 .mda-form-control.focus ~ label {
   top: 0!important;
   font-size: .85em!important;
-  color: #3f51b5;
+  color: #2196f3;
   opacity: 1;
 }
 .mda-form-control ~ label {
